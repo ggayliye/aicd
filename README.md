@@ -25,17 +25,52 @@ regulator circuit and the amplifier.
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/1.jpg)
 
-					**Fig 1**. A Very Wideband Amplifier  
+					<b>Fig 1</b>. A Very Wideband Amplifier  
+
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/9.jpg)
+
+					<b>Fig 9</b>. Outputs Setup. 					
+					
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/10.jpg)
+
+					<b>Fig 10</b>. Results. 					
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/2.jpg)
 
-					**Fig 2**. Regulator 
+					<b>Fig 2</b>. Regulator 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/3.jpg)
 
-					**Fig 3**. RF Amplifier 
+					<b>Fig 3</b>. RF Amplifier 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/4.jpg)
 
-					**Fig 4**. Current Mirror. 
+					<b>Fig 4</b>. Current Mirror. 
 
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/5.jpg)
+
+					<b>Fig 5</b>. Amplifier Layout. 
+					
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/6.jpg)
+
+					<b>Fig 6</b>. Current Mirror Layout. 				
+					
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/8.jpg)
+
+					<b>Fig 8</b>. Global Design Parameters. 						
+					
+## Final Delivery 						
+					
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/finalDeliver/1.jpg)			
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/finalDeliver/2.jpg)	
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/finalDeliver/3.jpg)	
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/finalDeliver/4.jpg)	
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/finalDeliver/5.jpg)	
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/finalDeliver/6.jpg)	
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/finalDeliver/7.jpg)	
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/finalDeliver/8.jpg)	
+
+
+		
+					
+					
