@@ -25,39 +25,39 @@ regulator circuit and the amplifier.
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/1.jpg)
 
-					<b>Fig 1</b>. A Very Wideband Amplifier  
+**Fig 1**. A Very Wideband Amplifier  
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/9.jpg)
 
-					<b>Fig 9</b>. Outputs Setup. 					
+**Fig 2**. Outputs Setup. 					
 					
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/10.jpg)
 
-					<b>Fig 10</b>. Results. 					
+**Fig 3**. Results. 					
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/2.jpg)
 
-					<b>Fig 2</b>. Regulator 
+**Fig 4**. Regulator 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/3.jpg)
 
-					<b>Fig 3</b>. RF Amplifier 
+**Fig 5**. RF Amplifier 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/4.jpg)
 
-					<b>Fig 4</b>. Current Mirror. 
+**Fig 6**. Current Mirror. 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/5.jpg)
 
-					<b>Fig 5</b>. Amplifier Layout. 
+**Fig 7**. Amplifier Layout. 
 					
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/6.jpg)
 
-					<b>Fig 6</b>. Current Mirror Layout. 				
+**Fig 8**. Current Mirror Layout. 				
 					
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/8.jpg)
 
-					<b>Fig 8</b>. Global Design Parameters. 						
+**Fig 9**. Global Design Parameters. 						
 					
 ## Final Delivery 						
 					
