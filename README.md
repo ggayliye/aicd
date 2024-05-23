@@ -23,8 +23,13 @@ regulator circuit and the amplifier.
 * Technology: 45nm CMOS, single-well (only n-well available) 
 * Simulator: Cadence Virtuoso
 
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/1.jpg)
 
+** Fig 1. ** A Very Wideband Amplifier  
 
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/2.jpg)
+
+** Fig 2. ** Regulator 
 
 
 
