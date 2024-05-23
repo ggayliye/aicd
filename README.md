@@ -25,15 +25,17 @@ regulator circuit and the amplifier.
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/1.jpg)
 
-					**Fig 1.** A Very Wideband Amplifier  
+					**Fig 1**. A Very Wideband Amplifier  
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/2.jpg)
 
-					**Fig 2.** Regulator 
+					**Fig 2**. Regulator 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/3.jpg)
 
-					**Fig 3.** RF Amplifier 
+					**Fig 3**. RF Amplifier 
 
+![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/4.jpg)
 
+					**Fig 4**. Current Mirror. 
 
