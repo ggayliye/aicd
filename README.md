@@ -5,7 +5,6 @@ Date: 25- August - 2023<br>
 Course: ECE 6720 - Fundamentals of Analog Integrated Circuit Design, ECE Department, The University of Utah<br>
 GitHub IDs: ggayliye <br>
 Repo: https://github.com/ggayliye/aicd <br>
-Date: 15- December - 2023, 11:59pm (Time of when submission is due/will be ready to be evaluated)<br>
 Copyright: ECE 6720, Kyle G. Gayliyev  - This work may not be copied for use in Academic Coursework.
 
 ## Overview of the Project
@@ -25,39 +24,39 @@ regulator circuit and the amplifier.
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/1.jpg)
 
-**Fig 1**. A Very Wideband Amplifier  
+**Fig 1**. Cadence Virtuoso Simulation: Very Wideband Amplifier  
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/9.jpg)
 
-**Fig 2**. Outputs Setup. 					
+**Fig 2**. Cadence Virtuoso Simulation: Outputs Setup. 					
 					
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/10.jpg)
 
-**Fig 3**. Results. 					
+**Fig 3**. Cadence Virtuoso Simulation: Results. 					
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/2.jpg)
 
-**Fig 4**. Regulator 
+**Fig 4**. Cadence Virtuoso Simulation: Regulator 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/3.jpg)
 
-**Fig 5**. RF Amplifier 
+**Fig 5**. Cadence Virtuoso Simulation: RF Amplifier 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/4.jpg)
 
-**Fig 6**. Current Mirror. 
+**Fig 6**. Cadence Virtuoso Simulation: Current Mirror. 
 
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/5.jpg)
 
-**Fig 7**. Amplifier Layout. 
+**Fig 7**. Cadence Virtuoso Simulation: Amplifier Layout. 
 					
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/6.jpg)
 
-**Fig 8**. Current Mirror Layout. 				
+**Fig 8**. Cadence Virtuoso Simulation: Current Mirror Layout. 				
 					
 ![alt text](https://github.com/ggayliye/aicd/blob/main/CadencePics/8.jpg)
 
-**Fig 9**. Global Design Parameters. 						
+**Fig 9**. Cadence Virtuoso Simulation: Global Design Parameters. 						
 					
 ## Final Delivery 						
 					
